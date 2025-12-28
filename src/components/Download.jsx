@@ -3,7 +3,7 @@ import { PLAY_STORE_URL, APP_STORE_URL, PHONE_IMG_URL, QR_CODE_IMG_URL } from '.
 
 const Download = () => {
   return (
-    <div className='bg-linear-to-b from-[#FFEDEF] to-[#FFDBE0] pt-25 flex justify-center gap-20'>
+    <div className='bg-linear-to-b from-[#FFEDEF] to-[#FFDBE0] py-30 flex justify-center gap-20'>
       <div className='flex justify-center flex-col'>
         <span className='text-[2.5rem] font-bold'>Download the app now!</span>
         <span className='text-2xl mt-3 text-gray-600'>Experience seamless online ordering <br /> only on the Zomato app</span>
