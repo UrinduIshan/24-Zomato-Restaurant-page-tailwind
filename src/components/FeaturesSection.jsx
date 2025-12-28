@@ -17,10 +17,10 @@ const FeaturesSection = () => {
             </div>
         </div>
 
-        <FeatureCard imgUrl={images.VEG_MODE_IMG_URL} title="Veg Mode" className='bottom-72 left-94' />
         <FeatureCard imgUrl={images.HEALTHY_IMG_URL} title="Healthy" className='bottom-72 left-60' />
-        <FeatureCard imgUrl={images.PARTY_IMG_URL} title="Plan a Party" className='bottom-28 left-60' />
-        <FeatureCard imgUrl={images.GIFT_CARDS_IMG_URL} title="Gift Cards" className='bottom-28 left-100' />
+        <FeatureCard imgUrl={images.VEG_MODE_IMG_URL} title="Veg Mode" className='bottom-68 left-95' />
+        <FeatureCard imgUrl={images.PARTY_IMG_URL} title="Plan a Party" className='bottom-36 left-60' />
+        <FeatureCard imgUrl={images.GIFT_CARDS_IMG_URL} title="Gift Cards" className='bottom-32 left-95' />
         <FeatureCard imgUrl={images.GOURMET_IMG_URL} title="Gourmet" className='bottom-64 right-108' />
         <FeatureCard imgUrl={images.OFFERS_IMG_URL} title="Offers" className='bottom-70 right-74' />
         <FeatureCard imgUrl={images.FOOD_ON_TRAIN_IMG_URL} title="Food on Train" className='bottom-28 right-102' />
