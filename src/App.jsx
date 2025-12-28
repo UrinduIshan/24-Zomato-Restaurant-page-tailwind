@@ -3,6 +3,7 @@ import HeroSection from './components/HeroSection'
 import OrderSection from './components/OrderSection'
 import FeaturesSection from './components/FeaturesSection'
 import Gold from './components/Gold'
+import Download from './components/Download'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <OrderSection />
       <FeaturesSection />
       <Gold />
+      <Download />
     </div>
   )
 }

@@ -17,14 +17,14 @@ const FeaturesSection = () => {
             </div>
         </div>
 
-        <FeatureCard imgUrl={images.HEALTHY_IMG_URL} title="Healthy" className='bottom-72 left-60' />
-        <FeatureCard imgUrl={images.VEG_MODE_IMG_URL} title="Veg Mode" className='bottom-68 left-95' />
-        <FeatureCard imgUrl={images.PARTY_IMG_URL} title="Plan a Party" className='bottom-36 left-60' />
-        <FeatureCard imgUrl={images.GIFT_CARDS_IMG_URL} title="Gift Cards" className='bottom-32 left-95' />
-        <FeatureCard imgUrl={images.GOURMET_IMG_URL} title="Gourmet" className='bottom-64 right-108' />
-        <FeatureCard imgUrl={images.OFFERS_IMG_URL} title="Offers" className='bottom-70 right-74' />
-        <FeatureCard imgUrl={images.FOOD_ON_TRAIN_IMG_URL} title="Food on Train" className='bottom-28 right-102' />
-        <FeatureCard imgUrl={images.COLLECTIONS_IMG_URL} title="Collections" className='bottom-34 right-68' />
+        <FeatureCard imgUrl={images.HEALTHY_IMG_URL} title="Healthy" className='bottom-72 left-74' />
+        <FeatureCard imgUrl={images.VEG_MODE_IMG_URL} title="Veg Mode" className='bottom-68 left-108' />
+        <FeatureCard imgUrl={images.PARTY_IMG_URL} title="Plan a Party" className='bottom-37 left-70' />
+        <FeatureCard imgUrl={images.GIFT_CARDS_IMG_URL} title="Gift Cards" className='bottom-33 left-103' />
+        <FeatureCard imgUrl={images.GOURMET_IMG_URL} title="Gourmet" className='bottom-68 right-108' />
+        <FeatureCard imgUrl={images.OFFERS_IMG_URL} title="Offers" className='bottom-72 right-74' />
+        <FeatureCard imgUrl={images.FOOD_ON_TRAIN_IMG_URL} title="Food on Train" className='bottom-33 right-103' />
+        <FeatureCard imgUrl={images.COLLECTIONS_IMG_URL} title="Collections" className='bottom-37 right-70' />
 
       </div>
     </div>
